@@ -10,4 +10,4 @@ Use the reg file to automate the script for each login.
 
 ## Credits
 
-- [Mark Russinovich][https://learn.microsoft.com/de-de/sysinternals/downloads/bginfo]
+[Mark Russinovich](https://learn.microsoft.com/de-de/sysinternals/downloads/bginfo)
